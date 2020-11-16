@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:fn="http://www.w3.org/2005/xpath-functions" version="2.0">
+	<channel>
+		<title>FOX Sports Digital</title>
+		<link>http://api.foxsports.com/v1/rss</link>
+		<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>
+				http://www.foxsports.com/wp-content/themes/foxsports/assets/images/60x60.png
+			</url>
+			<link>
+				http://api.foxsports.com/v1/rss
+			</link>
+		</image>
+		<pubDate>Mon, 16 Nov 2020 10:26:02 +0000</pubDate>		
+		<ttl>180</ttl>
+		<language>en-us</language>
+					<item>
+				<title>
+					<![CDATA[Miz and Maryse continue a family ice-skating tradition: Miz &amp; Mrs., Nov. 16, 2020]]>
+				</title>
+				<link>
+					https://www.foxsports.com/wwe/video/1820079683837
+				</link>
+				<guid>
+					https://www.foxsports.com/wwe/video/1820079683837
+				</guid>
+				<category>wwe</category>
+				<description>
+					<![CDATA[Miz and Maryse continue a family ice-skating tradition: Miz & Mrs., Nov. 16, 2020]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 05:00:04 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/mizmrs208_ice_skate-9c7c08ed3f308b95b240a1024ecb16d7_350x197_1820083779675.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Maryse loses Monroe in an elevator: Miz &amp; Mrs., Nov. 16, 2020]]>
+				</title>
+				<link>
+					https://www.foxsports.com/wwe/video/1820080195589
+				</link>
+				<guid>
+					https://www.foxsports.com/wwe/video/1820080195589
+				</guid>
+				<category>wwe</category>
+				<description>
+					<![CDATA[Maryse loses Monroe in an elevator: Miz & Mrs., Nov. 16, 2020]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 05:00:04 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/mizmrs208_monroe_elevator-600da737d9626ec12c2ae1b7a20ef1b6_350x197_1820083779542.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Survivor Series 2020 &#8211; Live this Sunday on WWE Network]]>
+				</title>
+				<link>
+					https://www.foxsports.com/wwe/video/1820080707567
+				</link>
+				<guid>
+					https://www.foxsports.com/wwe/video/1820080707567
+				</guid>
+				<category>wwe</category>
+				<description>
+					<![CDATA[Survivor Series 2020 - Live this Sunday on WWE Network]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 05:00:03 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/taker04-0c069a818084a4dc198763187c28c889_350x197_1820080195967.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Miz and Maryse strategize on how to play defense with Super Monroe: Miz &amp; Mrs., Nov. 16, 2020]]>
+				</title>
+				<link>
+					https://www.foxsports.com/wwe/video/1820079683838
+				</link>
+				<guid>
+					https://www.foxsports.com/wwe/video/1820079683838
+				</guid>
+				<category>wwe</category>
+				<description>
+					<![CDATA[Miz and Maryse strategize on how to play defense with Super Monroe: Miz & Mrs., Nov. 16, 2020]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 05:00:03 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/mizmrs208_monroe_fast-12087222e0cdfabfcd631348549e863a_350x197_1820083779682.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[We Good? 11.16.20 (VIDEO)]]>
+				</title>
+				<link>
+					https://www.foxsports.com/detroit/story/we-good-11-16-20-video-111520
+				</link>
+				<guid>
+					https://www.foxsports.com/detroit/story/we-good-11-16-20-video-111520
+				</guid>
+				<category>detroit</category>
+				<description>
+					<![CDATA[Top Three pro athletes from the state of Michigan]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 03:44:43 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/pi-we-good-041320-2.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[The Third Half 11.15.20 (VIDEO)]]>
+				</title>
+				<link>
+					https://www.foxsports.com/detroit/story/the-third-half-11-15-20-video-111520
+				</link>
+				<guid>
+					https://www.foxsports.com/detroit/story/the-third-half-11-15-20-video-111520
+				</guid>
+				<category>detroit</category>
+				<description>
+					<![CDATA[Red Wings forward Anthony Mantha stops by after signing on for four more years with Detroit]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 03:41:58 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/the-third-half-thumbnail-2.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFL Week 10 recap: Kyler Murray magic, Brees injury, Giants heating up, &amp; more | FOX NFL]]>
+				</title>
+				<link>
+					https://www.foxsports.com/nfl/video/1820010563642
+				</link>
+				<guid>
+					https://www.foxsports.com/nfl/video/1820010563642
+				</guid>
+				<category>nfl</category>
+				<description>
+					<![CDATA[All of a sudden, the Arizona Cardinals are in the NFC West driver's seat after a wild Hail Mary game-winning pass from Kyler Murray to DeAndre Hopkins to upend the Buffalo Bills. Drew Brees suffered a rib injury, the extent unknown. And the New York Giants have life in the NFC East race after running over the Philadelphia Eagles. All that and more in FOX NFL Sunday's Week 10 recap.]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 01:36:57 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/nfl_wk10_recap_site_thumb_1280x720_1820016195587.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[NFC West race gearing up for a wild finish &#8212; Troy Aikman on who has the inside track]]>
+				</title>
+				<link>
+					https://www.foxsports.com/nfl/video/1820006467989
+				</link>
+				<guid>
+					https://www.foxsports.com/nfl/video/1820006467989
+				</guid>
+				<category>nfl</category>
+				<description>
+					<![CDATA[The Seattle Seahawks, Los Angeles Rams, and Arizona Cardinals are now all tied atop the NFC West standings at 6-3. FOX's Troy Aikman breaks down which team has the biggest advantage as they head down the home stretch.]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 01:21:18 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/GettyImages-1285860864_1280x720_1820005955974.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Ben Roethlisberger on what makes the 9-0 Steelers &#8216;special&#8217;]]>
+				</title>
+				<link>
+					https://www.foxsports.com/nfl/video/1820002371809
+				</link>
+				<guid>
+					https://www.foxsports.com/nfl/video/1820002371809
+				</guid>
+				<category>nfl</category>
+				<description>
+					<![CDATA[Pittsburgh Steelers quarterback Ben Roethlisberger threw for four touchdowns in yet another win on Sunday, a 36-10 defeat of the Cincinnati Bengals. He joined FOX Sports' Shannon Spake after the game to discuss what he believes makes this particular group so special.]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 00:56:50 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/PGI_CIN_@_PIT_SPAKE_BIGBEN_SITE_1280x720_1820006467581.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Alvin Kamara walks through his incredible three-touchdown performance in Saints&#8217; win]]>
+				</title>
+				<link>
+					https://www.foxsports.com/nfl/video/1820000835899
+				</link>
+				<guid>
+					https://www.foxsports.com/nfl/video/1820000835899
+				</guid>
+				<category>nfl</category>
+				<description>
+					<![CDATA[New Orleans Saints running back Alvin Kamara scored three touchdowns in a 27-13 win over the San Francisco 49ers on Sunday. He spoke after the game about how his team moves forward with a banged up Drew Brees.]]>
+				</description>
+				 				<pubDate>Mon, 16 Nov 2020 00:51:28 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2020/11/PGI_SF4_@_NOS_BOOTH_KAMARA_SITE_1280x720_1820006467545.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+			</channel>
+</rss>
